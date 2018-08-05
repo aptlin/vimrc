@@ -1,0 +1,7 @@
+data/undodir/*
+data/yankring_history_v2.txt
+plugins/tlib/doc/tags
+plugins/ctrlp.vim/doc/tags*
+tags
+.DS_Store
+
